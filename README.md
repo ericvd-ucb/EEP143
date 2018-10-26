@@ -1,3 +1,3 @@
-# EEP143
+# EEP147
 
-This is a demo notebooks or two for EEP 143
+This is a demo notebooks or two for EEP 147
